@@ -2,9 +2,9 @@
 
 <!--
 **Lee-Yeejin/Lee-Yeejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=😊💖Happy%20you're%20here%20on%20Yejin’s%20GitHub%20👋😊&animation=twinkling&fontSize=30)
-Here are some ideas to get you started: 
 
+Here are some ideas to get you started: 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=😊💖Happy%20you're%20here%20on%20Yejin’s%20GitHub%20👋😊&animation=twinkling&fontSize=30)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
